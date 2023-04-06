@@ -16,4 +16,12 @@ namespace Grafos
             this.arista = new List<Vertice>();
         }
     }
+    class Vertice2
+    {
+        public int dato;
+        public Vertice2(int d)
+        {
+            this.dato = d;
+        }
+    }
 }
