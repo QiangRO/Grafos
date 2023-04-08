@@ -29,7 +29,7 @@ namespace Grafos
         }
         public void verDatos()
         {
-            Console.WriteLine($"\nColor: {this.color}" +
+            Console.WriteLine($"\nColor: {this.color}\n" +
                 $"Parada: {this.parada}\n");
         }
     }
